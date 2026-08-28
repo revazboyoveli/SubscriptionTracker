@@ -1,0 +1,15 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.2/msvc2022_64/bin/qmake)
+   Qt: 6.11.2
+  uic SubscriptionTrackerGUI.ui
+  moc SubscriptionTrackerGUI.h
+  SubscriptionManager.cpp
+  SubscriptionTrackerGUI.cpp
+  main.cpp
+C:\Users\admin\source\repos\SubscriptionTrackerGUI\SubscriptionTrackerGUI\SubscriptionManager.cpp(14,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  moc_SubscriptionTrackerGUI.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 588 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SubscriptionTrackerGUI.vcxproj -> C:\Users\admin\source\repos\SubscriptionTrackerGUI\x64\Release\SubscriptionTrackerGUI.exe
