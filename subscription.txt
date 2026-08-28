@@ -1,2 +1,2 @@
-GeoGuessr 5 USD 15
-Setanta 15 GEL 16
+TestSub1 5 USD 15
+TestSub2 15 GEL 16
